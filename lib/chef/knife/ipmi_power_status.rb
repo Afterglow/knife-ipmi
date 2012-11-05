@@ -16,7 +16,7 @@
 # limitations under the License.
 #
 
-require './ipmi_base'
+require 'chef/knife/ipmi_base'
 
 class Chef
   class Knife
